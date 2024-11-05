@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="PT-PizzaManagement-sharmilee.jalal">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="PT-PizzaManagement-sharmilee.jalal"/>
+        <property name="java-output-path" value="/PT-PizzaManagement-sharmilee.jalal/build/classes"/>
+    </wb-module>
+</project-modules>
